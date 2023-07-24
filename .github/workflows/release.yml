@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: Packages/com.vrchat.demo-template/**
+    paths: Packages/facsvpm/**
 
 env:
   packageName: "com.vrchat.demo-template"
